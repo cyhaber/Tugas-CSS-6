@@ -1,0 +1,27 @@
+h1 {
+    font-size:20px ;
+}
+p {
+    font-size: 8px;
+}
+.satu{
+    overflow: scroll;
+    height: 60px;
+    width: 150px;
+    background-color: aqua;
+    border: 5px dotted red;
+}
+.dua{
+    overflow: scroll;
+    height: 60px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid green;
+}
+.tiga{
+    overflow: scroll;
+    height: 60px;
+    width: 150px;
+    background-color: aqua;
+    border: 8px dashed blue;
+}
